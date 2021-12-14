@@ -1,0 +1,1 @@
+FROM rapidsai/rapidsai:21.10-cuda11.2-base-ubuntu20.04-py3.81

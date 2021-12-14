@@ -1,0 +1,3 @@
+#F1 Dashboard
+Python app using Plotly and Dash to serve data used the Fast F1 python package
+Also uses the RAPIDS environment for cuda acceleration of dataframes
